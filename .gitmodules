@@ -1,3 +1,6 @@
 [submodule "AlignedMalloc"]
 	path = AlignedMalloc
 	url = https://github.com/NickStrupat/AlignedMalloc.git
+[submodule "CacheLineSize"]
+	path = CacheLineSize
+	url = https://github.com/NickStrupat/CacheLineSize.git

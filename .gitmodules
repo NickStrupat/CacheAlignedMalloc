@@ -1,0 +1,3 @@
+[submodule "AlignedMalloc"]
+	path = AlignedMalloc
+	url = https://github.com/NickStrupat/AlignedMalloc.git
